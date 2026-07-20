@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👁️ EyeNeuroType</h1>
+  <h1> EyeNeuroType</h1>
   <h3>AI-Powered Gaze Typing System</h3>
   <p><strong>A cost-effective assistive technology that enables motor-disabled individuals to communicate using only eye movements via a standard webcam.</strong></p>
   
@@ -56,7 +56,6 @@
 
 | Achievement | Details |
 |-------------|---------|
-| 🥇 **City-Level Science Fair** | 2025-2026 City-Level Science and Engineering Fair |
 | 📊 **Accuracy** | 87% classification accuracy |
 | ⚡ **Processing Speed** | 15-20 FPS real-time processing |
 | 📝 **Typing Speed** | 12.8 characters per minute |
