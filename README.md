@@ -94,23 +94,4 @@
 ---
 
 ## 📊 System Architecture
-flowchart TD
-    A[Webcam] --> B[MediaPipe Face Mesh<br>478 landmarks]
-    B --> C[Feature Extraction]
-    C --> D[EAR Blink Detection]
-    C --> E[Iris Offset<br>Direction Detection]
-    C --> F[Head Pose<br>Roll / Yaw]
-    D --> G[KNN Classifier]
-    E --> G
-    F --> G
-    G --> H[LEFT]
-    G --> I[RIGHT]
-    G --> J[CENTER]
-    G --> K[BLINK]
-    H --> L[Virtual Keyboard 6x6]
-    I --> L
-    J --> L
-    K --> L
-    L --> M[Text Output]
-    M --> N[xin chào các bạn]
-    M --> O[Predictive Text<br>xin | chào | các | bạn | cảm ơn]
+<img width="2149" height="3117" alt="image" src="https://github.com/user-attachments/assets/8d3c97bb-7b6d-49f4-9301-e8ef700adb8c" />
