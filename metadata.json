@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Test 1",
+  "description": "Hệ thống hỗ trợ giao tiếp Eye Tracking điều khiển dành cho người khuyết tật vận động.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
